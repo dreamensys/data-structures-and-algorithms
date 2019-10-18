@@ -1,0 +1,10 @@
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.deps.json
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.runtimeconfig.json
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.runtimeconfig.dev.json
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.dll
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\bin\Debug\netcoreapp2.2\StacksAndQueues.pdb
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.AssemblyInfo.cs
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.dll
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\StacksAndQueues\obj\Debug\netcoreapp2.2\StacksAndQueues.pdb

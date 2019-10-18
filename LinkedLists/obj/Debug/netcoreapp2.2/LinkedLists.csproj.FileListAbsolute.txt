@@ -1,0 +1,10 @@
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\bin\Debug\netcoreapp2.2\LinkedLists.deps.json
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\bin\Debug\netcoreapp2.2\LinkedLists.runtimeconfig.json
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\bin\Debug\netcoreapp2.2\LinkedLists.runtimeconfig.dev.json
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\bin\Debug\netcoreapp2.2\LinkedLists.dll
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\bin\Debug\netcoreapp2.2\LinkedLists.pdb
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\obj\Debug\netcoreapp2.2\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\obj\Debug\netcoreapp2.2\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\obj\Debug\netcoreapp2.2\LinkedLists.AssemblyInfo.cs
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\obj\Debug\netcoreapp2.2\LinkedLists.dll
+C:\Users\angel.soto\source\repos\AlgorithmsAndDataStructures\LinkedLists\obj\Debug\netcoreapp2.2\LinkedLists.pdb
